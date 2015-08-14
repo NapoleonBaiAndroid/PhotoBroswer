@@ -105,6 +105,7 @@
         pbVC.show(inVC: self,index: index)
     }
 
+<br/><br/><br/>
 #### 3.功能详解（图文使用，请认真查看）：
 
 <br/>
@@ -143,7 +144,7 @@
 ![image](./PhotoBroswer/Show/8.gif)<br/>
 
 <br/>
-##### (9) 这么大模式：微信、新浪微博缩放模式
+##### (9) 放大模式：微信、新浪微博缩放模式
 大家在OC版本反馈想要的功能，，经典OC版本无此功能<br/>
 请直接设置pbVC.showType = PhotoBroswer.ShowType.ZoomAndDismissWithSingleTap <br/>
 ![image](./PhotoBroswer/Show/9.gif)<br/>
